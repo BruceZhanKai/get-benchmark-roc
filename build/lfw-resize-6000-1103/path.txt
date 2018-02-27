@@ -1,0 +1,3 @@
+cd C:\feature_bayes_caffe\lfw_resize_6000_1103
+
+create_csv_train_bayes.py C:\feature_bayes_caffe\lfw_resize_6000_1103 > data_input.csv

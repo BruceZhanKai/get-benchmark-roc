@@ -1,0 +1,4 @@
+truth_is_true size = 6000
+ratio_all size = 6000
+max_threshold = 1068.11
+min_threshold = -6367.46

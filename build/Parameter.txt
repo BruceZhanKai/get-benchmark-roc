@@ -1,0 +1,7 @@
+path_cnn_model:		XYZRobotModel-VGG16-1694-512-384-20170711
+name_cnn_model:		caffe_Face_VGG16_1694_iter_14775
+layer:				pool6_dropout
+joint:	jointbayesian-512-384-20170712
+database_folder:	database-0000-20170807(for savefeature)
+feature_size:		512
+feature_pca_size:	384
